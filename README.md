@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dylan-Liew
-- 👀 I’m interested in Cybersecurity & Coding
+- 👀 I’m interested in Cybersecurity & Programming
 - 🌱 I’m currently learning DevSecOps 
 - 📫 dylanliew0503@gmail.com
 
