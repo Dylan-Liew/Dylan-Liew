@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dylan-Liew
 - 👀 I’m interested in Cybersecurity & Coding
-- 🌱 I’m currently learning DevSecOps & Android Application Reverse Engineering
+- 🌱 I’m currently learning DevSecOps 
 - 📫 dylanliew0503@gmail.com
 
 <!---
