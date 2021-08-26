@@ -6,6 +6,7 @@
 - Amazon Web Service
 - Application Security
 - Cisco Networking
+- DevSecOps
 - Digital Forensics
 - HTML & CSS
 - Javascript
