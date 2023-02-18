@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dylan-Liew
 - 👀 I’m interested in Cybersecurity & Programming
-- 🌱 I’m currently chilling
+- 🌱 I’m currently learning
 
 ✨✨✨
 <!---
