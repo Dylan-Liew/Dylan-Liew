@@ -1,19 +1,14 @@
 <div id="header" style="font-family: Arial;" align="center">
-<!-- TYPE WRITER -->
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" width="20%"/>
-  </div>
-  <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="">
-      <img src="/rsc/linkeln.png" width="5%"/>
+      <img src="/rsc/linkeln.png" width="10%"/>
     </a>
     <a href="">
-      <img src="/rsc/instagram.png" width="5%"/>
+      <img src="/rsc/instagram.png" width="10%"/>
     </a>
     <a href="">
-      <img src="/rsc/facebook.png" width="5%"/>
+      <img src="/rsc/facebook.png" width="10%"/>
     </a>
   </div>
 
