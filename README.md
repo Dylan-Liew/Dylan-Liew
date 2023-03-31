@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <div id="header" align="center">
 <!-- TYPE WRITER -->
   <div class="typewriter">
@@ -44,7 +46,7 @@
     50% { border-color: orange }
   }
 </style>
-   
+</html>
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
