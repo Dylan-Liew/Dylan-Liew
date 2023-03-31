@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="">
-      <img src="/rsc/instagram.png" width="10%"/>
+      <img src="https://img.shields.io/badge/instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
     <a href="">
       <img src="/rsc/facebook.png" width="10%"/>
