@@ -15,6 +15,8 @@
       <img src="https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=black&style=for-the-badge" alt="Facebook Badge"/> 
     </a>
   </div>
+<!-- View Count -->
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 
 </div>
