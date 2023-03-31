@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-  <img src="/rsc/intro.gif" width="100%"/>
+    <h2> Dylan Liew </h2>
   </div>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
