@@ -1,4 +1,7 @@
 <div id="header" style="font-family: Arial;" align="center">
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/giphy.gif" width="100"/>
+</div>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="">
