@@ -6,13 +6,13 @@
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="">
-      <img src="/rsc/linkeln.png" width="5%""/>
+      <img src="/rsc/linkeln.png" width="3%"/>
     </a>
     <a href="">
-      <img src="/rsc/instagram.png" width="5%""/>
+      <img src="/rsc/instagram.png" width="3%"/>
     </a>
     <a href="">
-      <img src="/rsc/facebook.png" width="5%""/>
+      <img src="/rsc/facebook.png" width="3%"/>
     </a>
   </div>
 
