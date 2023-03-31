@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!-- TYPE WRITER -->
-  <div class="typewriter">
-    <h1>The cat and the hat.</h1>
+  <div id="header" align="center">
+  <img src="/rsc/intro.gif" width="40%"/>
   </div>
   <br>
 <!-- SOCIAL MEDIA -->
