@@ -8,10 +8,10 @@
       <img src="/rsc/linkeln.png" width="5%" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
-      <img src="/rsc/ig.png" width="5%" alt="Youtube Badge"/>
+      <img src="/rsc/instagram.png" width="5%" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
-      <img src="/rsc/twitter.png" width="5%" alt="Twitter Badge"/>
+      <img src="/rsc/facebook.png" width="5%" alt="Twitter Badge"/>
     </a>
   </div>
 
