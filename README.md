@@ -1,4 +1,5 @@
 <div id="header" style="font-family: Arial;" align="center">
+<!-- Header -->
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/giphy.gif" width="100"/>
   </div>
@@ -16,8 +17,7 @@
     </a>
   </div>
 <!-- View Count -->
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
+  <img src="https://komarev.com/ghpvc/?username=dylan-liew&style=flat-square&color=blue" alt="View Count"/>
 
 </div>
 
