@@ -5,7 +5,7 @@
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="">
-      <img src="[/rsc/linkeln.png](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge)" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="">
       <img src="/rsc/instagram.png" width="10%"/>
