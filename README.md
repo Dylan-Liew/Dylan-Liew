@@ -1,9 +1,8 @@
 <div id="header" style="font-family: Arial;" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-    <h1 font-size="1.2em"> Dylan Liew </h1>
+    <h1 font-size="1.5em"> Dylan Liew </h1>
   </div>
-  <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="">
