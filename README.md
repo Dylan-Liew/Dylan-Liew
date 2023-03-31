@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-  <img src="/rsc/intro.gif" width="40%"/>
+  <img src="/rsc/intro.gif" width="30%"/>
   </div>
   <br>
 <!-- SOCIAL MEDIA -->
