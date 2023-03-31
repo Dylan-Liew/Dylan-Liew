@@ -1,8 +1,9 @@
 <div id="header" style="font-family: Arial;" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" width="50%"/>
+    <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" width="30%"/>
   </div>
+  <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="">
