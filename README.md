@@ -30,6 +30,8 @@
 - :globe_with_meridians: Exploring cybersecurity and software engineering
 
 - :mailbox_with_mail: You can reach me through my email : [dylanliew0503@gmail.com](mailto:dylanliew0503@gmail.com)
+
+- :blue_book: [My Digital Portfolio](https://dylan-liew.github.io/)
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
