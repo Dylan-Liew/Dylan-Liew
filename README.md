@@ -17,6 +17,7 @@
     </a>
   </div>
 <!-- View Count -->
+  <br>
   <img src="https://komarev.com/ghpvc/?username=dylan-liew&style=flat-square&color=blue" alt="View Count"/>
 
 </div>
