@@ -1,7 +1,7 @@
 <div id="header" style="font-family: Arial;" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-    <h1> Dylan Liew </h1>
+    <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" width="50%"/>
   </div>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
