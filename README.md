@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
 
 <div id="header" align="center">
-  <img src="[/d.jpg](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)" width=100/>
+  <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="100"/>
 </div>
 
 <!---
