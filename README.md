@@ -1,19 +1,21 @@
 <div id="header" align="center">
-  # ERROR
+<!-- ERROR -->
   <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="28%"/>
 
-  # SOCIAL MEDIA
+<!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="/rsc/linkeln.png" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="/rsc/ig.png" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="/rsc/twitter.png" alt="Twitter Badge"/>
     </a>
   </div>
+
+
 </div>
 
 <!---
