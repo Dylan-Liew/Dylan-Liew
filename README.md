@@ -1,19 +1,19 @@
 <div id="header" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-  <img src="/rsc/intro.gif" width="30%"/>
+  <img src="/rsc/intro.gif" width="50%"/>
   </div>
   <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="/rsc/linkeln.png" width="5%" alt="LinkedIn Badge"/>
+    <a href="">
+      <img src="/rsc/linkeln.png" width="5%""/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="/rsc/instagram.png" width="5%" alt="Youtube Badge"/>
+    <a href="">
+      <img src="/rsc/instagram.png" width="5%""/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="/rsc/facebook.png" width="5%" alt="Twitter Badge"/>
+    <a href="">
+      <img src="/rsc/facebook.png" width="5%""/>
     </a>
   </div>
 
