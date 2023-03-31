@@ -5,13 +5,13 @@
   <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/dylan-liew/">
       <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+    <a href="https://www.instagram.com/x44ylan/">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
-    <a href="">
+    <a href="https://www.facebook.com/profile.php?id=100009515731546">
       <img src="https://img.shields.io/badge/Facebook-white?logo=facebook&logoColor=black&style=for-the-badge" alt="Facebook Badge"/> 
     </a>
   </div>
