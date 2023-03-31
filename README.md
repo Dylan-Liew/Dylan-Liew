@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
 
 <div id="header" align="center">
-  <img src="/d.jpg" style="width: 10; border-radius: 50%;"/>
+  <img src="/d.jpg" style="width: 10%; border-radius: 50%;"/>
 </div>
 
 <!---
