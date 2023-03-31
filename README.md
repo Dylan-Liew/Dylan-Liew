@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!-- TYPE WRITER -->
   <div id="header" align="center">
-    <h2> Dylan Liew </h2>
+    <h1> Dylan Liew </h1>
   </div>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
