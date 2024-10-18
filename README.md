@@ -11,6 +11,7 @@
     </a>
     <a href="https://www.instagram.com/x44ylan/">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
   </div>
 <!-- View Count -->
