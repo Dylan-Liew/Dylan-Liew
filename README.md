@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
     <a href="https://discord.com/users/424807602304843776">
-      <img src="https://img.shields.io/badge/discordwhite?logo=instagram&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
+      <img src="https://img.shields.io/badge/discord-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
     </a>
   </div>
 <!-- View Count -->
