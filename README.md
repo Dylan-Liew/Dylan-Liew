@@ -12,6 +12,9 @@
     <a href="https://www.instagram.com/x44ylan/">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
+    <a href="https://discord.com/users/424807602304843776">
+      <img src="https://img.shields.io/badge/discordwhite?logo=instagram&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
+    </a>
   </div>
 <!-- View Count -->
   <br>
@@ -24,11 +27,10 @@
 ### :black_cat: About Me :
 - :computer: I’m a student from Singapore studying computer science
 
-- :globe_with_meridians: Exploring cybersecurity and software engineering
+- :globe_with_meridians: Exploring Cybersecurity and Software Engineering
 
-- :mailbox_with_mail: You can reach me through my email : [dylanliew0503@gmail.com](mailto:dylanliew0503@gmail.com)
+- :mailbox_with_mail: You can reach me through my [email](mailto:dylanliew0503@gmail.com)
 
-- :blue_book: [My Digital Portfolio](https://dylan-liew.github.io/)
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
