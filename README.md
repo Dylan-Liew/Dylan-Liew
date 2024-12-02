@@ -5,7 +5,7 @@
   </div>
   <br>
 <!-- SOCIAL MEDIA -->
-  <div id="badges" style="text-decoration: none;">
+  <div id="badges" style="all: unset; text-decoration: none; display: inline;">
     <a href="https://www.linkedin.com/in/dylan-liew/">
       <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
