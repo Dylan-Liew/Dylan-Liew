@@ -6,8 +6,8 @@
   <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dylan-liew/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"  style="text-decoration: none;"/>
+    <a href="https://www.linkedin.com/in/dylan-liew/">
+      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/x44ylan/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
@@ -31,6 +31,11 @@
 
 - ➡️ @44ylan
 
+<style>
+  .a {
+    text-decoration: none !important;
+  }
+</style>
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
