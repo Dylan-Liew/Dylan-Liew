@@ -5,9 +5,9 @@
   </div>
   <br>
 <!-- SOCIAL MEDIA -->
-  <div id="badges" style="text-decoration: none;">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/dylan-liew/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"  style="text-decoration: none;"/>
     </a>
     <a href="https://www.instagram.com/x44ylan/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
