@@ -6,13 +6,13 @@
   <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dylan-liew/">
+    <a href="https://www.linkedin.com/in/dylan-liew/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/x44ylan/">
+    <a href="https://www.instagram.com/x44ylan/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
-    <a href="https://discord.com/users/424807602304843776">
+    <a href="https://discord.com/users/424807602304843776" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/discord-white?logo=discord&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
     </a>
   </div>
