@@ -32,9 +32,9 @@
 - ➡️ @44ylan
 
 <style>
-  .a {
-    text-decoration: none !important;
-  }
+[data-a11y-link-underlines=true] .markdown-body a.custom-link {
+  text-decoration: none !important;
+}
 </style>
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
