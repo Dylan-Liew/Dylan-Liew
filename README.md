@@ -6,7 +6,7 @@
   <br>
 <!-- SOCIAL MEDIA -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dylan-liew/">
+    <a href="https://www.linkedin.com/in/dylan-liew/" style="text-decoration: none !important;">
       <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/x44ylan/" style="text-decoration: none;">
@@ -30,12 +30,6 @@
 - :globe_with_meridians: Exploring cybersecurity and software engineering.
 
 - ➡️ @44ylan
-
-<style>
-[data-a11y-link-underlines=true] .markdown-body a.custom-link {
-  text-decoration: none !important;
-}
-</style>
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
