@@ -29,7 +29,7 @@
 
 - :globe_with_meridians: Exploring Cybersecurity and Software Engineering
 
-- :mailbox_with_mail: [Drop me a line!](mailto:dylanliew0503@gmail.com)
+- 💬 @44ylan
 
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
