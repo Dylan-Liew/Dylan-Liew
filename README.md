@@ -25,9 +25,9 @@
 ---
 
 ### :black_cat: About Me :
-- :computer: I’m a student from Singapore studying computer science
+- :computer: I’m a computer science student from Singapore.
 
-- :globe_with_meridians: Exploring Cybersecurity and Software Engineering
+- :globe_with_meridians: Exploring cybersecurity and software engineering.
 
 - ➡️ @44ylan
 
