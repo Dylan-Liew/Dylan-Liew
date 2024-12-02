@@ -29,7 +29,7 @@
 
 - :globe_with_meridians: Exploring Cybersecurity and Software Engineering
 
-- 💬 @44ylan
+- ➡️ @44ylan
 
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
