@@ -16,14 +16,8 @@
       <img src="https://img.shields.io/badge/discord-white?logo=discord&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
     </a>
   </div>
-<!-- View Count -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=dylan-liew&style=flat-square&color=blue" alt="View Count"/>
-
 </div>
-
 ---
-
 ### :black_cat: whoami :
 - 💻 computer science student from 🇸🇬.
 
