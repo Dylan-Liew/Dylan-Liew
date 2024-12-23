@@ -25,11 +25,11 @@
 ---
 
 ### :black_cat: whoami :
-- :computer: computer science student from 🇸🇬.
+- 💻 computer science student from 🇸🇬.
 
-- :globe_with_meridians: cybersecurity, software developer, sleep
-
-- ➡️ contact me on Telegram at @44ylan.
+- 🌐 cybersecurity, software developer
+  
+- 🧢 badminton, basketball, food
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
