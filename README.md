@@ -24,12 +24,12 @@
 
 ---
 
-### :black_cat: About Me :
-- :computer: I’m a computer science student from Singapore.
+### :black_cat: whoami :
+- :computer: computer science student from 🇸🇬.
 
-- :globe_with_meridians: Exploring cybersecurity and software engineering.
+- :globe_with_meridians: cybersecurity, software developer, sleep
 
-- ➡️ @44ylan
+- ➡️ contact me on Telegram at @44ylan.
 <!---
 Dylan-Liew/Dylan-Liew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
